@@ -6,11 +6,16 @@ body [class*="col-"] {
 body{
 
 }
+header{
+  height: 500px;
+    background: blue;
+}
 
 
 .jumbotron{
   text-align: center;
-  background: blue;
+    background: blue;
+
   font-size: 1.5em
 }
 .jumbotron> h1{
