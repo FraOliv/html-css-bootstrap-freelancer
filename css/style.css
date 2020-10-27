@@ -1,22 +1,27 @@
 body [class*="col-"] {
   height: 200px;
-  background-color: pink;
+
   border: 1px solid red;
 }
 body{
 
 }
 header{
-  height: 500px;
-    background: blue;
+    background: #1ABC9C;
+}
+.navbar{
+  background: #2C3E50
 }
 
 
 .jumbotron{
   text-align: center;
-    background: blue;
+    background: #1ABC9C;
 
   font-size: 1.5em
+}
+.jumbo_img{
+  height: 300px
 }
 .jumbotron> h1{
   font-size:2.5em
@@ -36,4 +41,8 @@ h2{
 }
 .download{
     margin-left: 45%;
+}
+.footer{
+  background: #2C3E50;
+
 }
