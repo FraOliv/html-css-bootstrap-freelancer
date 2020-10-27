@@ -1,0 +1,34 @@
+body [class*="col-"] {
+  height: 200px;
+  background-color: pink;
+  border: 1px solid red;
+}
+body{
+
+}
+
+
+.jumbotron{
+  text-align: center;
+  background: blue;
+  font-size: 1.5em
+}
+.jumbotron> h1{
+  font-size:2.5em
+
+}
+.grid{
+  margin: 5px 5px;
+      width: 29%;
+}
+.card{
+  padding: 5%
+}
+
+
+h2{
+  text-align: center;
+}
+.download{
+    margin-left: 45%;
+}
