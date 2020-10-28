@@ -125,10 +125,16 @@ h2{
     border-radius: 0;
 }
 .submit{
-  margin-bottom: 25px
+
+  background: #1ABC9C;
+  margin-bottom: 25px;
+}
 }
 .download{
     margin-left: 45%;
+    background: #1ABC9C;
+    border: 1px solid white
+  
 }
 #footer {
   color:white;
