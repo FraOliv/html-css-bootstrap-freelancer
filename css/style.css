@@ -52,6 +52,9 @@ header{
 h2{
   font-size: 3em
 }
+.fa-star:before {
+  font-size: 21px;}
+
 .white{
   color: white
 }
