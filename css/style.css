@@ -17,6 +17,9 @@ header{
 .navbar-inverse .navbar-nav>li>a {
   color: white;
 }
+.navbar-inverse .navbar-nav>li>a:hover {
+  color: #1ABC9C;
+}
 .navbar-inverse .navbar-brand {
 
     color: white;
