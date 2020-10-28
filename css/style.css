@@ -44,6 +44,17 @@ header{
 .card{
   padding: 5%
 }
+.form-control{
+    border: none;
+    border-bottom: 1px solid grey;
+    outline: none;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.text_center{
+  text-align: center;
+}
 
 
 h2{
@@ -52,5 +63,3 @@ h2{
 .download{
     margin-left: 45%;
 }
-.footer{
-  background: #2C3E50;
