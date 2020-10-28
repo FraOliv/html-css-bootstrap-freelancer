@@ -42,7 +42,8 @@ header{
 }
 
 .portfolio-img{
-  height: 250px;
+  height: auto;
+  width: 100%;
     
     border-radius: 12%;
     display: block;
@@ -63,6 +64,24 @@ header{
   border-radius: 15%;
   opacity: 0;
 
+}
+.outer-line {
+  width: 30%;
+  border-bottom: 1px solid black;
+  margin: 10px;
+}
+.outer-line_white {
+  width: 15%;
+  border-bottom: 1px solid white;
+  margin: 10px;
+}
+.line {
+  text-align: center;
+}
+
+span {
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .image-plus{
@@ -100,7 +119,7 @@ h2{
 }
 .form-control{
     border: none;
-    border-bottom: 1px solid grey;
+    border-bottom: 1px solid lightgrey;
     outline: none;
     box-shadow: none;
     border-radius: 0;
