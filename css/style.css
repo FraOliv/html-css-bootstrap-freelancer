@@ -111,9 +111,8 @@ h2{
   color: white
 }
 
-.card{
-  padding: 5%
-}
+
+
 #contact > div:nth-child(1) > div > div > div > i{
   color: black
 }
@@ -129,11 +128,11 @@ h2{
   background: #1ABC9C;
   margin-bottom: 25px;
 }
-}
-.download{
+
+.download_btn{
     margin-left: 45%;
     background: #1ABC9C;
-    border: 1px solid white
+    border: 1px solid white;
   
 }
 #footer {
