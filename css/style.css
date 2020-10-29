@@ -65,7 +65,7 @@ header{
   height: 100%;
   color: white;
   border-radius: 15%;
-  opacity: 0;
+  opacity: 2;
 
 }
 .outer-line {
@@ -103,6 +103,10 @@ font-size: 3em;
 
 .about{
   background: #1ABC9C;
+}
+#about > div > div > div.row > div:nth-child(2) > p{
+  padding: 1%;
+  width: 75%;
 }
 h2{
   font-size: 3em
